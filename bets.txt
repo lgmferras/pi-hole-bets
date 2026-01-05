@@ -1,680 +1,679 @@
 # Lista de bets para bloqueio no Pi-hole
-# Fonte: documentos oficiais em 2024/2025 [file:1][file:2]
+# Fonte: documentos oficiais em 2024/2025
 
-betano.bet.br
-superbet.bet.br
-magicjackpot.bet.br
-super.bet.br
-reidopitaco.bet.br
-pitaco.bet.br
-sportingbet.bet.br
-betboo.bet.br
-caesars.bet.br
-betnacional.bet.br
-mrjack.bet.br
-kto.bet.br
-betsson.bet.br
-galera.bet.br
-f12.bet.br
-luva.bet.br
-brasilbet.bet.br
-sporty.bet.br
-lance.bet.br
-estrelabet.bet.br
-reals.bet.br
-ux.bet.br
-betfair.bet.br
-7games.bet.br
-betao.bet.br
-r7.bet.br
-novibet.bet.br
-seguro.bet.br
-kingpanda.bet.br
-9f.bet.br
-6r.bet.br
-betapp.bet.br
-ijogo.bet.br
-fogo777.bet.br
-p9.bet.br
-bet365.bet.br
-apostaganha.bet.br
-brazino777.bet.br
-4play.bet.br
-pagol.bet.br
-seubet.bet.br
-h2.bet.br
-vbet.bet.br
-vivaro.bet.br
-casadeapostas.bet.br
-betsul.bet.br
-jogoonline.bet.br
-betfast.bet.br
-faz1.bet.br
-tivo.bet.br
-suprema.bet.br
-maxima.bet.br
-xp.bet.br
-betesporte.bet.br
-lancedesorte.bet.br
-betmgm.bet.br
-mgm.bet.br
-betspeed.bet.br
-bravo.bet.br
-tradicional.bet.br
-apostatudo.bet.br
-sorteonline.bet.br
-lottoland.bet.br
-arenaplus.bet.br
-pix.bet.br
-fla.bet.br
-betdasorte.bet.br
-apostou.bet.br
-b1bet.bet.br
-brbet.bet.br
-betgorillas.bet.br
-bateu.bet.br
-hanz.bet.br
-esportiva.bet.br
-betwarrior.bet.br
-sortenabet.bet.br
-betou.bet.br
-betfusion.bet.br
-bandbet.bet.br
-afun.bet.br
-ai.bet.br
-6z.bet.br
-blaze.bet.br
-jonbet.bet.br
-7k.bet.br
-cassino.bet.br
-vera.bet.br
-bau.bet.br
-telesena.bet.br
-show.bet.br
-vert.bet.br
-cgg.bet.br
-fanbit.bet.br
-up.bet.br
-9d.bet.br
-wjcasino.bet.br
-alfa.bet.br
-bet4.bet.br
-apostabet.bet.br
-fazobet.bet.br
-bolsadeaposta.bet.br
-fulltbet.bet.br
-betbra.bet.br
-pinnacle.bet.br
-matchbook.bet.br
-betespecial.bet.br
-betboom.bet.br
-aposta1.bet.br
-apostamax.bet.br
-ginga.bet.br
-qg.bet.br
-vivasorte.bet.br
-bacanaplay.bet.br
-playuzu.bet.br
-betcopa.bet.br
-brasildasorte.bet.br
-fybet.bet.br
-multi.bet.br
-rico.bet.br
-brx.bet.br
-stake.bet.br
-betcaixa.bet.br
-megabet.bet.br
-xbetcaixa.bet.br
-fazobetai.bet.br
-oleybet.bet.br
-betpark.bet.br
-meridianbet.bet.br
-versus.bet.br
-luck.bet.br
-1pra1.bet.br
-start.bet.br
-esporte365.bet.br
-betaki.bet.br
-jogodeouro.bet.br
-lider.bet.br
-geralbet.bet.br
-bullsbet.bet.br
-jogao.bet.br
-betpontobet.bet.br
-donald.bet.br
-rivalo.bet.br
-a247.bet.br
-mcgames.bet.br
-mcgamesbet.bet.br
-montecarlos.bet.br
-# A partir daqui, grande lista da “Operação URL” [file:2]
-001game9.com
-0066bet.com
-013bet8.com
-01bets.com
-073bet9.com
-079bet8.com
-099bet.com
-0win444.com
-1001bets.net
-10bet.com
-10bet85.com
-10brincopg.com
-10brl.com
-10ciliospg.com
-10vidapg.com
-111beijo777.com
-11queridopg.com
-11xwin.com
-123vegaswincasino.com
-129.bet
-136bet.casino
-136bet.com
-136bet4.com
-144bet.com
-14sportsbet.net
-15win4.com
-166bet9.com
-16bet.com
-187bet.com
-1888game.com
-1911bet7.com
-1984bet.vip
-1991jogo.vip
-1996jogo.com
-1999game.com
-19bet77.com
-1bet.com
-1brabet.com
-1ddbet.bet
-1gocasino44.com
-1kk.bet
-1wccbet.com
-1xslot.com
-20beta.com
-20bet-betting.com
-20betlp.com
-22bet.com
-26bet.com
-32red.com
-37bet.club
-41jogo.com
-444bet.online
-456bet6.com
-456bets.net
-50bets.com
-52bet.com
-5555game6.com
-577bet.com
-5gwin.bet
-5gwin.vip
-5zzbet.com
-60game6.com
-60win.fun
-62bets.com
-661bet.com
-666bet.com
-667bet.com
-668bet8.bet
-67bet.com
-70bet.com
-73bet.cc
-74bet.com
-74bet2.com
-74bet3.com
-74bet4.com
-74bet6.com
-74bet7.com
-74bet8.com
-74bet9.com
-7700bet.net
-7700bet.vip
-777bets.com
-777gold.bet
-777moneycashbet.online
-777ox.com
-777pc.cc
-7788bet.com
-79bet.com
-7beto.com
-81bet.com
-81bet.net
-83bets.net
-850bet.com
-8855bet.com
-8855bet1.com
-8855bet2.com
-8855bet3.com
-8855bet4.com
-8855bet5.com
-8855bet6.com
-8855bet7.com
-8855bet8.com
-8855bet9.com
-888.com
-888sport.com
-8bets.net
-8betweb.com
-901bet1.com
-9080bet.net
-939bet.com
-939bet2.com
-939bet3.com
-939bet4.com
-939bet5.com
-939bet6.com
-939bet7.com
-939bet8.com
-939bet9.com
-944bet7.com
-971bet.com
-982bet.com
-992bet6.com
-999bb.com
-999kkr.com
-999kks.vip
-99xbets.com
-a2bets.com
-a2sports.bet
-abc.bet
-abetbb.com
-adjarabet.com
-afribet.ng
-amazoniasports.com
-americabet.vip
-americabets.org
-apostabet.net
-apostabrasil.bet
-apostas.com
-apostebet.top
-arena10.net
-bangbet.com
-barrigudosbet.net
-bataclanbet.com
-bategol.com
-bategol.net
-bbb1998.com
-bbwin.com
-bc.game
-bet.co
-bet.com
-bet03777.com
-bet0933.com
-bet24hs.bet
-bet252.net
-bet317.net
-bet367.net
-bet500.com.br
-bet555.club
-bet558.com
-bet585.com
-bet59555.com
-bet7.com
-bet7.net.br
-bet77.bet
-bet89.net
-bet9.com
-bet917.com
-bet96900.com
-bet96999.com
-bet9-apostas.com
-bet9ja.com
-betae.io
-bet-at-home.com
-betbet.me
-betbr.io
-betbrasa.com
-betbrasil3d.com
-betbrasilesportes.net
-betbrazil10.bet
-betcerto.net
-betchoice.com
-betclic.com
-betcoco.com
-betcoinvip.net
-betcon365.com
-betdaq.com
-betdvd.app
-betesportebrazil.com
-betfan.tips
-betfiery.com
-betfirst.be
-betfred.com
-bethard.com
-betkwiff.com
-betmais.com
-betmais.vip
-betmania.com
-betmania.us
-betmania365.app
-betmaster.bet
-betnews.bet
-betobet.com.br
-betonline.ag
-betou.io
-betouro.com
-betpawa.com
-betpix.com
-betpix365.com
-betplay27plus.net
-betpluton.com
-betrally.icu
-bet-rei.club
-betrun.vip
-bets10.com.br
-bets26.net
-bets265.com
-bets367.net
-bets74.site
-bets88vip.com
-bets99.net
-betsafe.com
-betsamigo.com
-betsauro.com
-betsbarao.com
-betsbola.com
-betsbrasilesportes.vip
-betscash.net
-betscore.vip
-betslim eira.com
-betsmais.com
-betsoccer.bet
-betsports91.com
-betsportsbr.com
-betspremio.com.br
-betspremio.top
-betsrocha.com
-betsshow.com
-betsuper.club
-betting sites24.com
-bettiltoficial.com
-bettingsites24.com
-betvel.club
-betvida77.com
-betvitoria.com
-betviva.bet
-betwarrior.zendesk.com
-betwbr.com
-betwinner2.com.br
-betwinner-apostas.com
-betworld.bet
-betze10.com
-bibibets.bet
-bigbets99.net
-bitx.bet
-bk8br.com
-blacksports.top
-blazeapostas.online
-bokkie.bet
-boladeouro.net
-bolanarede.co
-bola10.bet
-bolapremium.bet
-bookmaker.eu
-boomcasino.com
-boylesports.com
-br.1xbet.com
-br.888casino.com
-br.betcris.com
-br.netbet.com
-br.novibet.com
-brasildasorte.com
-brasilbets365.net
-brasilvegas.com
-brazino777.online
-brslots.net
-brsport.net
-bt.bet
-bullsbet.bet
-cashplay.bet
-cashpoint.com
-casinoonlinemx.mx
-casitsu.com
-cassinorico.com
-cazinbo.com.br
-cbf365.com
-cbf365.vip
-cearabet s2.net
-cherrybet.site
-citobet.com
-citybets.wee.bet
-ckbet.com
-cloudbet.com
-clubebet.com.br
-clubedaposta.com
-codere.es
-comeon.com
-crystalbet.com
-crownbet.et
-dafabet.net
-digibet.com
-dooxxbet.sk
-doxxbet.sk
-driftcasino.com
-drip.casino
-dualbits.com
-efbet.com
-elitebet.app
-elitebet365.com
-elitebetpro.com
-energybet.com
-esportenet.bet
-eurosportbet.com
-exclusivebeteu.com
-expekt.com
-favbet.com
-fazbet.com
-fezbet.com
-flabets.com
-folkbet.co
-folkbet.com
-fonbet.com.cy
-forvetbet.com
-frankcasino.com
-fresh.casino
-ftslots.com
-fubet.com
-fun88br.com
-futbets.bet
-fydbet.com
-fyobet.com
-g2sports.bet
-gadobet.com
-gbets.co
-gg196.bet
-goldenbet.com
-grandivy.com
-greenbets.io
-greenbets.net
-grosvenorcasinos.com
-gtbet.club
-gtwin.com
-heroi.bet
-hexabet.net
-icecasino.com
-ibet.com
-intertops.de
-interwetten17.com
-ivibet.com.br
-izzicasino.com
-izzicasino188.com
-jackpotslots.com.br
-je3.bet
-jgrbet.com
-jgsports.bet
-jhbets.com
-jogabet.net
-jogabets.co
-joiabet.com
-jon.bet
-joocasino.com
-just.bet
-kfc.casino
-kingbillycasino.com
-kolabet.com
-kslots.com
-kwikbet.co.ke
-ladbrokes.com
-laliga365bets.com
-leon.bet
-legzo.casino
-limasbet.com
-live.casino
-lilibet.com
-lottostar.co.za
-lsbet.com
-luckia.pt
-lucrobet.com
-lvbet.com
-lyon.bet
-m88.com
-majorbet.bet
-marathonbet.com
-megapari.com
-melbet.com
-misterbet.io
-moovbet.com
-mostbet-online.com.br
-mr.bet
-mrbit.casino
-msport.com
-mundobet.bet
-neo.bet
-netpix.bet
-newsport.bet
-ninjabet.space
-nordicbet.com
-nozwin.com
-nossaaposta.pt
-noxwin.com
-obet.com
-odibets.com
-oficialbet.com
-olimp.bet
-onebook888.com
-onecasino.com
-onwin365.com
-optibet.lv
-ourobet.com.br
-ourobet.net
-overbet.club
-overbet.online
-paddypower.com
-paf.com
-palacebet.vip
-paradise8.com
-paradisecasino.com
-parimatch.com
-partypoker.com
-paxabet.com
-peacock777.bet
-pin-up.bet
-pin-up-cassino.com.br
-placard.pt
-platincasino.com
-play.sbobet.com
-playabet.co.ke
-playbets.bet
-playbets.net.br
-playpix.center
-playuzu.com
-plazaroyal.com
-powbet.com
-powerbet.cash
-premierbee.ao
-primabete.com
-primajogo.com
-primebets.top
-primesport.io
-primesports.bet
-prosport.bet
-pt.unibet.com
-qbet.com
-qrbet.cc
-qrbet.com
-rabona.com
-realbetbrasil.com
-realsbet.com
-ricobet.win
-rivalry.com
-riverbet.ro
-rolletto.com
-royalbet.net.br
-royalbetpro.com
-rtp-slotonline.com
-sapphirebet.com
-scorebet.bet
-scoutzbet.com
-se7ebet.us
-sebet.com
-sharkcassino.com
-shinobibet.com
-slottica.com
-slotv.com
-smarkets.com
-soccabet.com
-sol.casino
-spacebet.com
-spbetbrasil.com
-sportaza.com
-sportbet.club
-sportbet365.bet
-sportbet365.com.br
-sportbetbrasil.com
-sportingbet-365.com
-sportingbet-brasil.com
-sportingindex.com
-sportsbet.com.au
-sportsbook.draftkings.com
-sports.ladbrokes.com
-sports.bwin.com
-sports.bwin.pt
-spreadex.com
-stanleybet.ro
-starda.casino
-sunbet.co
-sunbingo.co.uk
-supabets.co
-superbahis.com
-superbets.net
-superbets365.info
-superbetvip.net
-superesportes.net
-taabet.com
-tabcorp.com.au
-teambetts.net
-tennisi.com
-tigerbet.com
-titanbet.com
-to.games
-topbet.eu
-topbets.bet
-topbetsbrasil.com
-totalbet.com
-totalbet.pl
-totogaming.am
-trbet.com
-tvbet.com
-twin casino.net
-ubetsports.io
-unibet.com
-upbet.club
-uwin.top
-uxbet.com.br
-vbet.com
-victoriabets.com
-virtualbets.net
-winmasters.com
-winz.io
-wolfcassino.com
-wplay.co
-wwbet.bet
-wwccbet.com
-xbet365.com.br
-xbet77.net
-xbet99.net
-xbetbrasil.bet
-xbetprime.com
-xbets360.net
-youwin.com
-zebet.com
+0.0.0.0 etano.bet.br
+0.0.0.0 uperbet.bet.br
+0.0.0.0 agicjackpot.bet.br
+0.0.0.0 uper.bet.br
+0.0.0.0 eidopitaco.bet.br
+0.0.0.0 itaco.bet.br
+0.0.0.0 portingbet.bet.br
+0.0.0.0 etboo.bet.br
+0.0.0.0 aesars.bet.br
+0.0.0.0 etnacional.bet.br
+0.0.0.0 rjack.bet.br
+0.0.0.0 to.bet.br
+0.0.0.0 etsson.bet.br
+0.0.0.0 alera.bet.br
+0.0.0.0 12.bet.br
+0.0.0.0 uva.bet.br
+0.0.0.0 rasilbet.bet.br
+0.0.0.0 porty.bet.br
+0.0.0.0 ance.bet.br
+0.0.0.0 strelabet.bet.br
+0.0.0.0 eals.bet.br
+0.0.0.0 x.bet.br
+0.0.0.0 etfair.bet.br
+0.0.0.0 games.bet.br
+0.0.0.0 etao.bet.br
+0.0.0.0 7.bet.br
+0.0.0.0 ovibet.bet.br
+0.0.0.0 eguro.bet.br
+0.0.0.0 ingpanda.bet.br
+0.0.0.0 f.bet.br
+0.0.0.0 r.bet.br
+0.0.0.0 etapp.bet.br
+0.0.0.0 jogo.bet.br
+0.0.0.0 ogo777.bet.br
+0.0.0.0 9.bet.br
+0.0.0.0 et365.bet.br
+0.0.0.0 postaganha.bet.br
+0.0.0.0 razino777.bet.br
+0.0.0.0 play.bet.br
+0.0.0.0 agol.bet.br
+0.0.0.0 eubet.bet.br
+0.0.0.0 2.bet.br
+0.0.0.0 bet.bet.br
+0.0.0.0 ivaro.bet.br
+0.0.0.0 asadeapostas.bet.br
+0.0.0.0 etsul.bet.br
+0.0.0.0 ogoonline.bet.br
+0.0.0.0 etfast.bet.br
+0.0.0.0 az1.bet.br
+0.0.0.0 ivo.bet.br
+0.0.0.0 uprema.bet.br
+0.0.0.0 axima.bet.br
+0.0.0.0 p.bet.br
+0.0.0.0 etesporte.bet.br
+0.0.0.0 ancedesorte.bet.br
+0.0.0.0 etmgm.bet.br
+0.0.0.0 gm.bet.br
+0.0.0.0 etspeed.bet.br
+0.0.0.0 ravo.bet.br
+0.0.0.0 radicional.bet.br
+0.0.0.0 postatudo.bet.br
+0.0.0.0 orteonline.bet.br
+0.0.0.0 ottoland.bet.br
+0.0.0.0 renaplus.bet.br
+0.0.0.0 ix.bet.br
+0.0.0.0 la.bet.br
+0.0.0.0 etdasorte.bet.br
+0.0.0.0 postou.bet.br
+0.0.0.0 1bet.bet.br
+0.0.0.0 rbet.bet.br
+0.0.0.0 etgorillas.bet.br
+0.0.0.0 ateu.bet.br
+0.0.0.0 anz.bet.br
+0.0.0.0 sportiva.bet.br
+0.0.0.0 etwarrior.bet.br
+0.0.0.0 ortenabet.bet.br
+0.0.0.0 etou.bet.br
+0.0.0.0 etfusion.bet.br
+0.0.0.0 andbet.bet.br
+0.0.0.0 fun.bet.br
+0.0.0.0 i.bet.br
+0.0.0.0 z.bet.br
+0.0.0.0 laze.bet.br
+0.0.0.0 onbet.bet.br
+0.0.0.0 k.bet.br
+0.0.0.0 assino.bet.br
+0.0.0.0 era.bet.br
+0.0.0.0 au.bet.br
+0.0.0.0 elesena.bet.br
+0.0.0.0 how.bet.br
+0.0.0.0 ert.bet.br
+0.0.0.0 gg.bet.br
+0.0.0.0 anbit.bet.br
+0.0.0.0 p.bet.br
+0.0.0.0 d.bet.br
+0.0.0.0 jcasino.bet.br
+0.0.0.0 lfa.bet.br
+0.0.0.0 et4.bet.br
+0.0.0.0 postabet.bet.br
+0.0.0.0 azobet.bet.br
+0.0.0.0 olsadeaposta.bet.br
+0.0.0.0 ulltbet.bet.br
+0.0.0.0 etbra.bet.br
+0.0.0.0 innacle.bet.br
+0.0.0.0 atchbook.bet.br
+0.0.0.0 etespecial.bet.br
+0.0.0.0 etboom.bet.br
+0.0.0.0 posta1.bet.br
+0.0.0.0 postamax.bet.br
+0.0.0.0 inga.bet.br
+0.0.0.0 g.bet.br
+0.0.0.0 ivasorte.bet.br
+0.0.0.0 acanaplay.bet.br
+0.0.0.0 layuzu.bet.br
+0.0.0.0 etcopa.bet.br
+0.0.0.0 rasildasorte.bet.br
+0.0.0.0 ybet.bet.br
+0.0.0.0 ulti.bet.br
+0.0.0.0 ico.bet.br
+0.0.0.0 rx.bet.br
+0.0.0.0 take.bet.br
+0.0.0.0 etcaixa.bet.br
+0.0.0.0 egabet.bet.br
+0.0.0.0 betcaixa.bet.br
+0.0.0.0 azobetai.bet.br
+0.0.0.0 leybet.bet.br
+0.0.0.0 etpark.bet.br
+0.0.0.0 eridianbet.bet.br
+0.0.0.0 ersus.bet.br
+0.0.0.0 uck.bet.br
+0.0.0.0 pra1.bet.br
+0.0.0.0 tart.bet.br
+0.0.0.0 sporte365.bet.br
+0.0.0.0 etaki.bet.br
+0.0.0.0 ogodeouro.bet.br
+0.0.0.0 ider.bet.br
+0.0.0.0 eralbet.bet.br
+0.0.0.0 ullsbet.bet.br
+0.0.0.0 ogao.bet.br
+0.0.0.0 etpontobet.bet.br
+0.0.0.0 onald.bet.br
+0.0.0.0 ivalo.bet.br
+0.0.0.0 247.bet.br
+0.0.0.0 cgames.bet.br
+0.0.0.0 cgamesbet.bet.br
+0.0.0.0 ontecarlos.bet.br
+0.0.0.0 01game9.com
+0.0.0.0 066bet.com
+0.0.0.0 13bet8.com
+0.0.0.0 1bets.com
+0.0.0.0 73bet9.com
+0.0.0.0 79bet8.com
+0.0.0.0 99bet.com
+0.0.0.0 win444.com
+0.0.0.0 001bets.net
+0.0.0.0 0bet.com
+0.0.0.0 0bet85.com
+0.0.0.0 0brincopg.com
+0.0.0.0 0brl.com
+0.0.0.0 0ciliospg.com
+0.0.0.0 0vidapg.com
+0.0.0.0 11beijo777.com
+0.0.0.0 1queridopg.com
+0.0.0.0 1xwin.com
+0.0.0.0 23vegaswincasino.com
+0.0.0.0 29.bet
+0.0.0.0 36bet.casino
+0.0.0.0 36bet.com
+0.0.0.0 36bet4.com
+0.0.0.0 44bet.com
+0.0.0.0 4sportsbet.net
+0.0.0.0 5win4.com
+0.0.0.0 66bet9.com
+0.0.0.0 6bet.com
+0.0.0.0 87bet.com
+0.0.0.0 888game.com
+0.0.0.0 911bet7.com
+0.0.0.0 984bet.vip
+0.0.0.0 991jogo.vip
+0.0.0.0 996jogo.com
+0.0.0.0 999game.com
+0.0.0.0 9bet77.com
+0.0.0.0 bet.com
+0.0.0.0 brabet.com
+0.0.0.0 ddbet.bet
+0.0.0.0 gocasino44.com
+0.0.0.0 kk.bet
+0.0.0.0 wccbet.com
+0.0.0.0 xslot.com
+0.0.0.0 0beta.com
+0.0.0.0 0bet-betting.com
+0.0.0.0 0betlp.com
+0.0.0.0 2bet.com
+0.0.0.0 6bet.com
+0.0.0.0 2red.com
+0.0.0.0 7bet.club
+0.0.0.0 1jogo.com
+0.0.0.0 44bet.online
+0.0.0.0 56bet6.com
+0.0.0.0 56bets.net
+0.0.0.0 0bets.com
+0.0.0.0 2bet.com
+0.0.0.0 555game6.com
+0.0.0.0 77bet.com
+0.0.0.0 gwin.bet
+0.0.0.0 gwin.vip
+0.0.0.0 zzbet.com
+0.0.0.0 0game6.com
+0.0.0.0 0win.fun
+0.0.0.0 2bets.com
+0.0.0.0 61bet.com
+0.0.0.0 66bet.com
+0.0.0.0 67bet.com
+0.0.0.0 68bet8.bet
+0.0.0.0 7bet.com
+0.0.0.0 0bet.com
+0.0.0.0 3bet.cc
+0.0.0.0 4bet.com
+0.0.0.0 4bet2.com
+0.0.0.0 4bet3.com
+0.0.0.0 4bet4.com
+0.0.0.0 4bet6.com
+0.0.0.0 4bet7.com
+0.0.0.0 4bet8.com
+0.0.0.0 4bet9.com
+0.0.0.0 700bet.net
+0.0.0.0 700bet.vip
+0.0.0.0 77bets.com
+0.0.0.0 77gold.bet
+0.0.0.0 77moneycashbet.online
+0.0.0.0 77ox.com
+0.0.0.0 77pc.cc
+0.0.0.0 788bet.com
+0.0.0.0 9bet.com
+0.0.0.0 beto.com
+0.0.0.0 1bet.com
+0.0.0.0 1bet.net
+0.0.0.0 3bets.net
+0.0.0.0 50bet.com
+0.0.0.0 855bet.com
+0.0.0.0 855bet1.com
+0.0.0.0 855bet2.com
+0.0.0.0 855bet3.com
+0.0.0.0 855bet4.com
+0.0.0.0 855bet5.com
+0.0.0.0 855bet6.com
+0.0.0.0 855bet7.com
+0.0.0.0 855bet8.com
+0.0.0.0 855bet9.com
+0.0.0.0 88.com
+0.0.0.0 88sport.com
+0.0.0.0 bets.net
+0.0.0.0 betweb.com
+0.0.0.0 01bet1.com
+0.0.0.0 080bet.net
+0.0.0.0 39bet.com
+0.0.0.0 39bet2.com
+0.0.0.0 39bet3.com
+0.0.0.0 39bet4.com
+0.0.0.0 39bet5.com
+0.0.0.0 39bet6.com
+0.0.0.0 39bet7.com
+0.0.0.0 39bet8.com
+0.0.0.0 39bet9.com
+0.0.0.0 44bet7.com
+0.0.0.0 71bet.com
+0.0.0.0 82bet.com
+0.0.0.0 92bet6.com
+0.0.0.0 99bb.com
+0.0.0.0 99kkr.com
+0.0.0.0 99kks.vip
+0.0.0.0 9xbets.com
+0.0.0.0 2bets.com
+0.0.0.0 2sports.bet
+0.0.0.0 bc.bet
+0.0.0.0 betbb.com
+0.0.0.0 djarabet.com
+0.0.0.0 fribet.ng
+0.0.0.0 mazoniasports.com
+0.0.0.0 mericabet.vip
+0.0.0.0 mericabets.org
+0.0.0.0 postabet.net
+0.0.0.0 postabrasil.bet
+0.0.0.0 postas.com
+0.0.0.0 postebet.top
+0.0.0.0 rena10.net
+0.0.0.0 angbet.com
+0.0.0.0 arrigudosbet.net
+0.0.0.0 ataclanbet.com
+0.0.0.0 ategol.com
+0.0.0.0 ategol.net
+0.0.0.0 bb1998.com
+0.0.0.0 bwin.com
+0.0.0.0 c.game
+0.0.0.0 et.co
+0.0.0.0 et.com
+0.0.0.0 et03777.com
+0.0.0.0 et0933.com
+0.0.0.0 et24hs.bet
+0.0.0.0 et252.net
+0.0.0.0 et317.net
+0.0.0.0 et367.net
+0.0.0.0 et500.com.br
+0.0.0.0 et555.club
+0.0.0.0 et558.com
+0.0.0.0 et585.com
+0.0.0.0 et59555.com
+0.0.0.0 et7.com
+0.0.0.0 et7.net.br
+0.0.0.0 et77.bet
+0.0.0.0 et89.net
+0.0.0.0 et9.com
+0.0.0.0 et917.com
+0.0.0.0 et96900.com
+0.0.0.0 et96999.com
+0.0.0.0 et9-apostas.com
+0.0.0.0 et9ja.com
+0.0.0.0 etae.io
+0.0.0.0 et-at-home.com
+0.0.0.0 etbet.me
+0.0.0.0 etbr.io
+0.0.0.0 etbrasa.com
+0.0.0.0 etbrasil3d.com
+0.0.0.0 etbrasilesportes.net
+0.0.0.0 etbrazil10.bet
+0.0.0.0 etcerto.net
+0.0.0.0 etchoice.com
+0.0.0.0 etclic.com
+0.0.0.0 etcoco.com
+0.0.0.0 etcoinvip.net
+0.0.0.0 etcon365.com
+0.0.0.0 etdaq.com
+0.0.0.0 etdvd.app
+0.0.0.0 etesportebrazil.com
+0.0.0.0 etfan.tips
+0.0.0.0 etfiery.com
+0.0.0.0 etfirst.be
+0.0.0.0 etfred.com
+0.0.0.0 ethard.com
+0.0.0.0 etkwiff.com
+0.0.0.0 etmais.com
+0.0.0.0 etmais.vip
+0.0.0.0 etmania.com
+0.0.0.0 etmania.us
+0.0.0.0 etmania365.app
+0.0.0.0 etmaster.bet
+0.0.0.0 etnews.bet
+0.0.0.0 etobet.com.br
+0.0.0.0 etonline.ag
+0.0.0.0 etou.io
+0.0.0.0 etouro.com
+0.0.0.0 etpawa.com
+0.0.0.0 etpix.com
+0.0.0.0 etpix365.com
+0.0.0.0 etplay27plus.net
+0.0.0.0 etpluton.com
+0.0.0.0 etrally.icu
+0.0.0.0 et-rei.club
+0.0.0.0 etrun.vip
+0.0.0.0 ets10.com.br
+0.0.0.0 ets26.net
+0.0.0.0 ets265.com
+0.0.0.0 ets367.net
+0.0.0.0 ets74.site
+0.0.0.0 ets88vip.com
+0.0.0.0 ets99.net
+0.0.0.0 etsafe.com
+0.0.0.0 etsamigo.com
+0.0.0.0 etsauro.com
+0.0.0.0 etsbarao.com
+0.0.0.0 etsbola.com
+0.0.0.0 etsbrasilesportes.vip
+0.0.0.0 etscash.net
+0.0.0.0 etscore.vip
+0.0.0.0 etslim eira.com
+0.0.0.0 etsmais.com
+0.0.0.0 etsoccer.bet
+0.0.0.0 etsports91.com
+0.0.0.0 etsportsbr.com
+0.0.0.0 etspremio.com.br
+0.0.0.0 etspremio.top
+0.0.0.0 etsrocha.com
+0.0.0.0 etsshow.com
+0.0.0.0 etsuper.club
+0.0.0.0 etting sites24.com
+0.0.0.0 ettiltoficial.com
+0.0.0.0 ettingsites24.com
+0.0.0.0 etvel.club
+0.0.0.0 etvida77.com
+0.0.0.0 etvitoria.com
+0.0.0.0 etviva.bet
+0.0.0.0 etwarrior.zendesk.com
+0.0.0.0 etwbr.com
+0.0.0.0 etwinner2.com.br
+0.0.0.0 etwinner-apostas.com
+0.0.0.0 etworld.bet
+0.0.0.0 etze10.com
+0.0.0.0 ibibets.bet
+0.0.0.0 igbets99.net
+0.0.0.0 itx.bet
+0.0.0.0 k8br.com
+0.0.0.0 lacksports.top
+0.0.0.0 lazeapostas.online
+0.0.0.0 okkie.bet
+0.0.0.0 oladeouro.net
+0.0.0.0 olanarede.co
+0.0.0.0 ola10.bet
+0.0.0.0 olapremium.bet
+0.0.0.0 ookmaker.eu
+0.0.0.0 oomcasino.com
+0.0.0.0 oylesports.com
+0.0.0.0 r.1xbet.com
+0.0.0.0 r.888casino.com
+0.0.0.0 r.betcris.com
+0.0.0.0 r.netbet.com
+0.0.0.0 r.novibet.com
+0.0.0.0 rasildasorte.com
+0.0.0.0 rasilbets365.net
+0.0.0.0 rasilvegas.com
+0.0.0.0 razino777.online
+0.0.0.0 rslots.net
+0.0.0.0 rsport.net
+0.0.0.0 t.bet
+0.0.0.0 ullsbet.bet
+0.0.0.0 ashplay.bet
+0.0.0.0 ashpoint.com
+0.0.0.0 asinoonlinemx.mx
+0.0.0.0 asitsu.com
+0.0.0.0 assinorico.com
+0.0.0.0 azinbo.com.br
+0.0.0.0 bf365.com
+0.0.0.0 bf365.vip
+0.0.0.0 earabet s2.net
+0.0.0.0 herrybet.site
+0.0.0.0 itobet.com
+0.0.0.0 itybets.wee.bet
+0.0.0.0 kbet.com
+0.0.0.0 loudbet.com
+0.0.0.0 lubebet.com.br
+0.0.0.0 lubedaposta.com
+0.0.0.0 odere.es
+0.0.0.0 omeon.com
+0.0.0.0 rystalbet.com
+0.0.0.0 rownbet.et
+0.0.0.0 afabet.net
+0.0.0.0 igibet.com
+0.0.0.0 ooxxbet.sk
+0.0.0.0 oxxbet.sk
+0.0.0.0 riftcasino.com
+0.0.0.0 rip.casino
+0.0.0.0 ualbits.com
+0.0.0.0 fbet.com
+0.0.0.0 litebet.app
+0.0.0.0 litebet365.com
+0.0.0.0 litebetpro.com
+0.0.0.0 nergybet.com
+0.0.0.0 sportenet.bet
+0.0.0.0 urosportbet.com
+0.0.0.0 xclusivebeteu.com
+0.0.0.0 xpekt.com
+0.0.0.0 avbet.com
+0.0.0.0 azbet.com
+0.0.0.0 ezbet.com
+0.0.0.0 labets.com
+0.0.0.0 olkbet.co
+0.0.0.0 olkbet.com
+0.0.0.0 onbet.com.cy
+0.0.0.0 orvetbet.com
+0.0.0.0 rankcasino.com
+0.0.0.0 resh.casino
+0.0.0.0 tslots.com
+0.0.0.0 ubet.com
+0.0.0.0 un88br.com
+0.0.0.0 utbets.bet
+0.0.0.0 ydbet.com
+0.0.0.0 yobet.com
+0.0.0.0 2sports.bet
+0.0.0.0 adobet.com
+0.0.0.0 bets.co
+0.0.0.0 g196.bet
+0.0.0.0 oldenbet.com
+0.0.0.0 randivy.com
+0.0.0.0 reenbets.io
+0.0.0.0 reenbets.net
+0.0.0.0 rosvenorcasinos.com
+0.0.0.0 tbet.club
+0.0.0.0 twin.com
+0.0.0.0 eroi.bet
+0.0.0.0 exabet.net
+0.0.0.0 cecasino.com
+0.0.0.0 bet.com
+0.0.0.0 ntertops.de
+0.0.0.0 nterwetten17.com
+0.0.0.0 vibet.com.br
+0.0.0.0 zzicasino.com
+0.0.0.0 zzicasino188.com
+0.0.0.0 ackpotslots.com.br
+0.0.0.0 e3.bet
+0.0.0.0 grbet.com
+0.0.0.0 gsports.bet
+0.0.0.0 hbets.com
+0.0.0.0 ogabet.net
+0.0.0.0 ogabets.co
+0.0.0.0 oiabet.com
+0.0.0.0 on.bet
+0.0.0.0 oocasino.com
+0.0.0.0 ust.bet
+0.0.0.0 fc.casino
+0.0.0.0 ingbillycasino.com
+0.0.0.0 olabet.com
+0.0.0.0 slots.com
+0.0.0.0 wikbet.co.ke
+0.0.0.0 adbrokes.com
+0.0.0.0 aliga365bets.com
+0.0.0.0 eon.bet
+0.0.0.0 egzo.casino
+0.0.0.0 imasbet.com
+0.0.0.0 ive.casino
+0.0.0.0 ilibet.com
+0.0.0.0 ottostar.co.za
+0.0.0.0 sbet.com
+0.0.0.0 uckia.pt
+0.0.0.0 ucrobet.com
+0.0.0.0 vbet.com
+0.0.0.0 yon.bet
+0.0.0.0 88.com
+0.0.0.0 ajorbet.bet
+0.0.0.0 arathonbet.com
+0.0.0.0 egapari.com
+0.0.0.0 elbet.com
+0.0.0.0 isterbet.io
+0.0.0.0 oovbet.com
+0.0.0.0 ostbet-online.com.br
+0.0.0.0 r.bet
+0.0.0.0 rbit.casino
+0.0.0.0 sport.com
+0.0.0.0 undobet.bet
+0.0.0.0 eo.bet
+0.0.0.0 etpix.bet
+0.0.0.0 ewsport.bet
+0.0.0.0 injabet.space
+0.0.0.0 ordicbet.com
+0.0.0.0 ozwin.com
+0.0.0.0 ossaaposta.pt
+0.0.0.0 oxwin.com
+0.0.0.0 bet.com
+0.0.0.0 dibets.com
+0.0.0.0 ficialbet.com
+0.0.0.0 limp.bet
+0.0.0.0 nebook888.com
+0.0.0.0 necasino.com
+0.0.0.0 nwin365.com
+0.0.0.0 ptibet.lv
+0.0.0.0 urobet.com.br
+0.0.0.0 urobet.net
+0.0.0.0 verbet.club
+0.0.0.0 verbet.online
+0.0.0.0 addypower.com
+0.0.0.0 af.com
+0.0.0.0 alacebet.vip
+0.0.0.0 aradise8.com
+0.0.0.0 aradisecasino.com
+0.0.0.0 arimatch.com
+0.0.0.0 artypoker.com
+0.0.0.0 axabet.com
+0.0.0.0 eacock777.bet
+0.0.0.0 in-up.bet
+0.0.0.0 in-up-cassino.com.br
+0.0.0.0 lacard.pt
+0.0.0.0 latincasino.com
+0.0.0.0 lay.sbobet.com
+0.0.0.0 layabet.co.ke
+0.0.0.0 laybets.bet
+0.0.0.0 laybets.net.br
+0.0.0.0 laypix.center
+0.0.0.0 layuzu.com
+0.0.0.0 lazaroyal.com
+0.0.0.0 owbet.com
+0.0.0.0 owerbet.cash
+0.0.0.0 remierbee.ao
+0.0.0.0 rimabete.com
+0.0.0.0 rimajogo.com
+0.0.0.0 rimebets.top
+0.0.0.0 rimesport.io
+0.0.0.0 rimesports.bet
+0.0.0.0 rosport.bet
+0.0.0.0 t.unibet.com
+0.0.0.0 bet.com
+0.0.0.0 rbet.cc
+0.0.0.0 rbet.com
+0.0.0.0 abona.com
+0.0.0.0 ealbetbrasil.com
+0.0.0.0 ealsbet.com
+0.0.0.0 icobet.win
+0.0.0.0 ivalry.com
+0.0.0.0 iverbet.ro
+0.0.0.0 olletto.com
+0.0.0.0 oyalbet.net.br
+0.0.0.0 oyalbetpro.com
+0.0.0.0 tp-slotonline.com
+0.0.0.0 apphirebet.com
+0.0.0.0 corebet.bet
+0.0.0.0 coutzbet.com
+0.0.0.0 e7ebet.us
+0.0.0.0 ebet.com
+0.0.0.0 harkcassino.com
+0.0.0.0 hinobibet.com
+0.0.0.0 lottica.com
+0.0.0.0 lotv.com
+0.0.0.0 markets.com
+0.0.0.0 occabet.com
+0.0.0.0 ol.casino
+0.0.0.0 pacebet.com
+0.0.0.0 pbetbrasil.com
+0.0.0.0 portaza.com
+0.0.0.0 portbet.club
+0.0.0.0 portbet365.bet
+0.0.0.0 portbet365.com.br
+0.0.0.0 portbetbrasil.com
+0.0.0.0 portingbet-365.com
+0.0.0.0 portingbet-brasil.com
+0.0.0.0 portingindex.com
+0.0.0.0 portsbet.com.au
+0.0.0.0 portsbook.draftkings.com
+0.0.0.0 ports.ladbrokes.com
+0.0.0.0 ports.bwin.com
+0.0.0.0 ports.bwin.pt
+0.0.0.0 preadex.com
+0.0.0.0 tanleybet.ro
+0.0.0.0 tarda.casino
+0.0.0.0 unbet.co
+0.0.0.0 unbingo.co.uk
+0.0.0.0 upabets.co
+0.0.0.0 uperbahis.com
+0.0.0.0 uperbets.net
+0.0.0.0 uperbets365.info
+0.0.0.0 uperbetvip.net
+0.0.0.0 uperesportes.net
+0.0.0.0 aabet.com
+0.0.0.0 abcorp.com.au
+0.0.0.0 eambetts.net
+0.0.0.0 ennisi.com
+0.0.0.0 igerbet.com
+0.0.0.0 itanbet.com
+0.0.0.0 o.games
+0.0.0.0 opbet.eu
+0.0.0.0 opbets.bet
+0.0.0.0 opbetsbrasil.com
+0.0.0.0 otalbet.com
+0.0.0.0 otalbet.pl
+0.0.0.0 otogaming.am
+0.0.0.0 rbet.com
+0.0.0.0 vbet.com
+0.0.0.0 win casino.net
+0.0.0.0 betsports.io
+0.0.0.0 nibet.com
+0.0.0.0 pbet.club
+0.0.0.0 win.top
+0.0.0.0 xbet.com.br
+0.0.0.0 bet.com
+0.0.0.0 ictoriabets.com
+0.0.0.0 irtualbets.net
+0.0.0.0 inmasters.com
+0.0.0.0 inz.io
+0.0.0.0 olfcassino.com
+0.0.0.0 play.co
+0.0.0.0 wbet.bet
+0.0.0.0 wccbet.com
+0.0.0.0 bet365.com.br
+0.0.0.0 bet77.net
+0.0.0.0 bet99.net
+0.0.0.0 betbrasil.bet
+0.0.0.0 betprime.com
+0.0.0.0 bets360.net
+0.0.0.0 ouwin.com
+0.0.0.0 ebet.com
