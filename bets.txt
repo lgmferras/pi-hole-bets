@@ -375,7 +375,7 @@
 0.0.0.0 etsbrasilesportes.vip
 0.0.0.0 etscash.net
 0.0.0.0 etscore.vip
-0.0.0.0 etslim eira.com
+0.0.0.0 etslimeira.com
 0.0.0.0 etsmais.com
 0.0.0.0 etsoccer.bet
 0.0.0.0 etsports91.com
@@ -385,7 +385,6 @@
 0.0.0.0 etsrocha.com
 0.0.0.0 etsshow.com
 0.0.0.0 etsuper.club
-0.0.0.0 etting sites24.com
 0.0.0.0 ettiltoficial.com
 0.0.0.0 ettingsites24.com
 0.0.0.0 etvel.club
@@ -433,7 +432,7 @@
 0.0.0.0 azinbo.com.br
 0.0.0.0 bf365.com
 0.0.0.0 bf365.vip
-0.0.0.0 earabet s2.net
+0.0.0.0 earabets2.net
 0.0.0.0 herrybet.site
 0.0.0.0 itobet.com
 0.0.0.0 itybets.wee.bet
@@ -654,7 +653,7 @@
 0.0.0.0 otogaming.am
 0.0.0.0 rbet.com
 0.0.0.0 vbet.com
-0.0.0.0 win casino.net
+0.0.0.0 wincasino.net
 0.0.0.0 betsports.io
 0.0.0.0 nibet.com
 0.0.0.0 pbet.club
