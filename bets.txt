@@ -375,7 +375,7 @@
 0.0.0.0 betsbrasilesportes.vip
 0.0.0.0 betscash.net
 0.0.0.0 betscore.vip
-0.0.0.0 betslim eira.com
+0.0.0.0 betslimeira.com
 0.0.0.0 betsmais.com
 0.0.0.0 betsoccer.bet
 0.0.0.0 betsports91.com
@@ -385,7 +385,7 @@
 0.0.0.0 betsrocha.com
 0.0.0.0 betsshow.com
 0.0.0.0 betsuper.club
-0.0.0.0 betting sites24.com
+0.0.0.0 bettingsites24.com
 0.0.0.0 bettiltoficial.com
 0.0.0.0 bettingsites24.com
 0.0.0.0 betvel.club
@@ -433,7 +433,7 @@
 0.0.0.0 cazinbo.com.br
 0.0.0.0 cbf365.com
 0.0.0.0 cbf365.vip
-0.0.0.0 cearabet s2.net
+0.0.0.0 cearabets2.net
 0.0.0.0 cherrybet.site
 0.0.0.0 citobet.com
 0.0.0.0 citybets.wee.bet
@@ -654,7 +654,7 @@
 0.0.0.0 totogaming.am
 0.0.0.0 trbet.com
 0.0.0.0 tvbet.com
-0.0.0.0 twin casino.net
+0.0.0.0 twincasino.net
 0.0.0.0 ubetsports.io
 0.0.0.0 unibet.com
 0.0.0.0 upbet.club
