@@ -677,7 +677,6 @@
 0.0.0.0 xbets360.net
 0.0.0.0 youwin.com
 0.0.0.0 zebet.com
-=======
 0.0.0.0 etano.bet.br
 0.0.0.0 uperbet.bet.br
 0.0.0.0 agicjackpot.bet.br
@@ -1353,3 +1352,4 @@
 0.0.0.0 bets360.net
 0.0.0.0 ouwin.com
 0.0.0.0 ebet.com
+
